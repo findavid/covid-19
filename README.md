@@ -16,3 +16,19 @@ Comparative time series of confirmed cases and deaths
 Comparative view of excess deaths per million inhabitants
 Divergence points in the pandemic evolution between both countries
 
+# Dependencies
+
+This project uses the following dependencies:
+
+Python
+
+Pandas
+
+Matplotlib
+
+# Acknowledgments
+
+Thanks to Our World in Data for providing the dataset.
+
+Thanks to the open source community for the various tools and libraries that made this project possible.
+
